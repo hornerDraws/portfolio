@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+
+# Next.js
+.next/
+out/
+
+# Development Environment
+.DS_Store
+.vscode/
+*.log
+*.tmp
+*.swp
